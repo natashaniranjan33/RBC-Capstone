@@ -1,0 +1,1001 @@
+PartyId,PartyAge,n_accounts_named_on,associated_portfolio_total,any_owner_70plus,any_owner_80plus,n_advisory_accts,in_client_household,conversion_probability,priority_tier,primary_role,roles_held,rank
+4217772,52.0,2.0,0.0,0.0,0.0,0.0,1.0,0.9992818,Very High,Responsible Party,Responsible Party,1
+22859361,37.0,2.0,0.0,0.0,0.0,0.0,1.0,0.99859124,Very High,Responsible Party,Responsible Party,2
+59107,21.0,1.0,0.0,0.0,0.0,0.0,1.0,0.9927261,Very High,Minor,Minor,3
+1157075,68.0,4.0,0.0,1.0,0.0,0.0,0.0,0.99160355,Very High,Responsible Party,Responsible Party,4
+1768293,86.0,2.0,0.0,1.0,1.0,0.0,0.0,0.99154824,Very High,Responsible Party,Responsible Party,5
+2241517,98.0,0.0,0.0,0.0,0.0,0.0,1.0,0.99112767,Very High,Primary Beneficiary,Primary Beneficiary,6
+2241612,97.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9897199,Very High,Primary Beneficiary,Primary Beneficiary,7
+11009759,97.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9897199,Very High,,,8
+4981364,96.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9887967,Very High,Primary Beneficiary,Primary Beneficiary,9
+2681843,96.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9887967,Very High,Primary Beneficiary,Primary Beneficiary,10
+18390404,70.0,2.0,0.0,0.0,0.0,0.0,0.0,0.98792285,Very High,Responsible Party,Responsible Party,11
+5976029,95.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98761916,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",12
+2681873,95.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98761916,Very High,Contingent Beneficiary,Contingent Beneficiary,13
+1202052,93.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98746455,Very High,Primary Beneficiary,Primary Beneficiary,14
+2408031,93.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98746455,Very High,Primary Beneficiary,Primary Beneficiary,15
+3639600,93.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98746455,Very High,Trusted Contact,Trusted Contact,16
+10762632,93.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98746455,Very High,,,17
+6265406,93.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98746455,Very High,Contingent Beneficiary,Contingent Beneficiary,18
+25378247,86.0,1.0,12009.3,0.0,0.0,0.0,0.0,0.9851489,Very High,Additional Grantor,Additional Grantor,19
+25378249,84.0,1.0,12009.3,0.0,0.0,0.0,0.0,0.9824356,Very High,Additional Grantor,Additional Grantor,20
+5609146,90.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98240745,Very High,Primary Beneficiary,Primary Beneficiary,21
+5712604,90.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98240745,Very High,Primary Beneficiary,Primary Beneficiary,22
+5926146,90.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98240745,Very High,Primary Beneficiary,Primary Beneficiary,23
+33453258,84.0,1.0,480921.58,0.0,0.0,1.0,0.0,0.9811652,Very High,Additional Grantor,Additional Grantor,24
+27484434,81.0,1.0,213743.66,0.0,0.0,0.0,0.0,0.98050976,Very High,Additional Grantor,Additional Grantor,25
+198088,89.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98028046,Very High,Primary Beneficiary,Primary Beneficiary,26
+1687586,89.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98028046,Very High,Primary Beneficiary,Primary Beneficiary,27
+5980178,89.0,0.0,0.0,0.0,0.0,0.0,1.0,0.98028046,Very High,Primary Beneficiary,Primary Beneficiary,28
+35188326,50.0,2.0,0.0,1.0,1.0,0.0,0.0,0.98000735,Very High,Responsible Party,Responsible Party,29
+27447863,77.0,1.0,479571.74,0.0,0.0,1.0,0.0,0.9798989,Very High,Additional Grantor,Additional Grantor,30
+27600803,96.0,1.0,537233.69,0.0,0.0,1.0,0.0,0.9790197,Very High,Additional Grantor,Additional Grantor,31
+6101019,87.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97739726,Very High,Primary Beneficiary,Primary Beneficiary,32
+24469,87.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97739726,Very High,Primary Beneficiary,Primary Beneficiary,33
+6047827,87.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97739726,Very High,Primary Beneficiary,Primary Beneficiary,34
+2447679,86.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679377,Very High,Primary Beneficiary,Primary Beneficiary,35
+6050773,86.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679377,Very High,Primary Beneficiary,Primary Beneficiary,36
+5247327,86.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679377,Very High,Primary Beneficiary,Primary Beneficiary,37
+1215250,86.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679377,Very High,Primary Beneficiary,Primary Beneficiary,38
+823417,86.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679377,Very High,Primary Beneficiary,Primary Beneficiary,39
+2196408,88.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679317,Very High,Primary Beneficiary,Primary Beneficiary,40
+10815057,88.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679317,Very High,,,41
+10772763,88.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679317,Very High,,,42
+5988520,88.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679317,Very High,Primary Beneficiary,Primary Beneficiary,43
+18156771,88.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97679317,Very High,,,44
+892266,81.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97621673,Very High,Primary Beneficiary,Primary Beneficiary,45
+14082717,80.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9760056,Very High,Primary Beneficiary,Primary Beneficiary,46
+18781246,80.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9760056,Very High,Primary Beneficiary,Primary Beneficiary,47
+10995876,80.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9760056,Very High,,,48
+11040591,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,,,49
+2417610,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,Contingent Beneficiary,Contingent Beneficiary,50
+6184230,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,Contingent Beneficiary,Contingent Beneficiary,51
+14310986,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,,,52
+1690287,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",53
+17101766,85.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9754566,Very High,,,54
+10755290,84.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97515786,Very High,,,55
+13493845,84.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97515786,Very High,,,56
+4184561,84.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97515786,Very High,Primary Beneficiary,Primary Beneficiary,57
+147856,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,Contingent Beneficiary,Contingent Beneficiary,58
+4611528,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,59
+3550979,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,Primary Beneficiary,Primary Beneficiary,60
+1966049,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,Primary Beneficiary,Primary Beneficiary,61
+10992718,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,,,62
+10996628,82.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9750141,Very High,,,63
+24910007,92.0,1.0,789750.68,0.0,0.0,0.0,0.0,0.97475296,Very High,Additional Grantor,Additional Grantor,64
+35451095,91.0,1.0,1457267.07,0.0,0.0,0.0,0.0,0.9741057,Very High,Additional Grantor,Additional Grantor,65
+18410826,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,,,66
+10854652,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,,,67
+809215,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,,,68
+6117425,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,Primary Beneficiary,Primary Beneficiary,69
+2737896,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,Primary Beneficiary,Primary Beneficiary,70
+4079777,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,,,71
+5681903,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,Primary Beneficiary,Primary Beneficiary,72
+5927580,83.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97377205,Very High,Primary Beneficiary,Primary Beneficiary,73
+24443661,87.0,1.0,0.0,0.0,0.0,0.0,0.0,0.9733393,Very High,Additional Grantor,Additional Grantor,74
+55496,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Primary Beneficiary,Primary Beneficiary,75
+150675,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,76
+3682558,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Primary Beneficiary,Primary Beneficiary,77
+17390734,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Trusted Contact,Trusted Contact,78
+1295436,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",79
+3556129,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Primary Beneficiary,Primary Beneficiary,80
+10960977,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,,,81
+10766186,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,,,82
+10766185,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,,,83
+10766187,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,,,84
+13858749,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,Primary Beneficiary,Primary Beneficiary,85
+16610125,79.0,0.0,0.0,0.0,0.0,0.0,1.0,0.97278666,Very High,,,86
+2497797,75.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9727171,Very High,Primary Beneficiary,Primary Beneficiary,87
+11013737,75.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9727171,Very High,,,88
+2785798,75.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9727171,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",89
+22123540,75.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9727171,Very High,,,90
+19966101,75.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9727171,Very High,Primary Beneficiary,Primary Beneficiary,91
+10911837,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,,,92
+2426469,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",93
+5163394,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",94
+12272495,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,Primary Beneficiary,Primary Beneficiary,95
+5795609,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,Primary Beneficiary,Primary Beneficiary,96
+28292,76.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9724353,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",97
+32134770,88.0,2.0,7708351.62,0.0,0.0,0.0,0.0,0.9724209,Very High,Additional Grantor,Additional Grantor,98
+5574619,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,99
+6114973,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,100
+5163268,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",101
+6155801,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,102
+1543473,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",103
+5837838,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,104
+1260151,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,105
+6009188,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,106
+10992819,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,107
+2241456,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,108
+10992668,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,109
+2253123,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,110
+846104,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,111
+6025358,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,112
+18600552,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,113
+18600555,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,114
+18600549,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,115
+3618285,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,116
+4690075,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,117
+10803943,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,,,118
+150679,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,119
+3769036,78.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,120
+286683,77.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9721271,Very High,Primary Beneficiary,Primary Beneficiary,121
+17401967,38.0,2.0,0.0,0.0,0.0,0.0,0.0,0.9704898,Very High,Responsible Party,Responsible Party,122
+30754056,62.0,1.0,19104.89,0.0,0.0,0.0,0.0,0.96956486,Very High,Additional Grantor,Additional Grantor,123
+27307239,63.0,1.0,6.43,0.0,0.0,0.0,0.0,0.9694847,Very High,Additional Grantor,Additional Grantor,124
+30314853,76.0,1.0,0.0,0.0,0.0,0.0,0.0,0.96780753,Very High,Additional Grantor,Additional Grantor,125
+10901010,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,126
+34910803,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,127
+4576514,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,128
+28845682,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,129
+11224866,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,130
+2601906,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,131
+10886125,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,132
+10767237,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,133
+4483370,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,134
+11001036,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,135
+5760995,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,136
+11781052,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,137
+731710,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,138
+11438450,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,139
+4576538,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,140
+27269660,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,141
+14856131,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,142
+10996000,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,143
+27513821,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,144
+10997012,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,145
+14194224,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,146
+2960740,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,147
+702011,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,148
+15375804,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,149
+15376089,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,150
+10996630,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,151
+32900378,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,152
+4780,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,153
+4580174,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,154
+10945998,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,155
+14589991,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,156
+731711,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,157
+4373288,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,158
+26937740,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,159
+15412859,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,160
+4701042,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,161
+35297820,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,162
+2630068,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,163
+35297819,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,164
+10755634,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,165
+10757633,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,166
+5754361,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,167
+10882174,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,168
+3948305,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,169
+10769776,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,170
+10768354,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,171
+10997050,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,172
+6086971,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,173
+6872,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,174
+6086972,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,175
+25389268,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,176
+5895839,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,177
+11033046,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,178
+10811755,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,179
+6052312,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,180
+12659742,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,181
+16972785,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,182
+5711943,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,183
+1960485,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,184
+12035371,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",185
+1830180,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,186
+10873075,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,187
+10871964,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,188
+10871009,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,189
+10870953,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,190
+4482576,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,191
+2495918,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,192
+10977944,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,193
+4301485,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,194
+10783620,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,195
+4177318,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,196
+16993375,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,197
+24630824,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,198
+10868911,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,199
+10869743,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,200
+1960489,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,201
+1960488,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,202
+10857681,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,203
+1960486,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,204
+4471877,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,205
+11016266,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,206
+10844740,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,207
+10849995,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,208
+18582586,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,209
+2075511,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,210
+2075512,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,211
+2075522,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,212
+2312997,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,213
+5681376,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,214
+23207692,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,215
+23207689,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,216
+22918871,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,217
+2075523,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,218
+11020256,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,219
+2202417,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,220
+1163105,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,221
+23180701,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,222
+2136193,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,223
+23046325,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,224
+10842337,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,225
+10964619,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,226
+5793457,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Primary Beneficiary,Primary Beneficiary,227
+20236231,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,228
+11440926,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Trusted Contact,Trusted Contact,229
+10922365,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,230
+91898,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,Contingent Beneficiary,Contingent Beneficiary,231
+10931009,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96630615,Very High,,,232
+32673587,70.0,5.0,2162777.9,0.0,0.0,3.0,0.0,0.9654641,Very High,Additional Grantor,Additional Grantor,233
+25526574,69.0,2.0,668560.66,0.0,0.0,1.0,0.0,0.96490353,Very High,Additional Grantor,Additional Grantor,234
+35826126,71.0,2.0,5463172.98,0.0,0.0,2.0,0.0,0.96419996,Very High,Additional Grantor,Additional Grantor,235
+34780440,70.0,2.0,1746361.28,0.0,0.0,1.0,0.0,0.96419996,Very High,Additional Grantor,Additional Grantor,236
+27190028,57.0,1.0,0.0,0.0,0.0,0.0,0.0,0.9639336,Very High,Additional Grantor,Additional Grantor,237
+25632926,88.0,1.0,156882.49,0.0,0.0,0.0,0.0,0.96351653,Very High,Additional Grantor,Additional Grantor,238
+36213014,39.0,1.0,0.0,1.0,0.0,0.0,0.0,0.9631844,Very High,Responsible Party,Responsible Party,239
+32154565,87.0,1.0,1487650.13,0.0,0.0,0.0,0.0,0.96260434,Very High,Additional Grantor,Additional Grantor,240
+32154576,87.0,1.0,1487650.13,0.0,0.0,0.0,0.0,0.96260434,Very High,Additional Grantor,Additional Grantor,241
+27517918,38.0,3.0,1266751.18,0.0,0.0,2.0,0.0,0.96159,Very High,Additional Grantor,Additional Grantor,242
+6170517,20.0,2.0,12526.94,0.0,0.0,0.0,1.0,0.9605224,Very High,Minor,Minor,243
+23326487,82.0,1.0,112875.0,0.0,0.0,0.0,0.0,0.95967793,Very High,Additional Grantor,Additional Grantor,244
+27255497,63.0,1.0,78319.58,0.0,0.0,0.0,0.0,0.95893216,Very High,Additional Grantor,Additional Grantor,245
+33250134,59.0,1.0,89279.32,0.0,0.0,0.0,0.0,0.9582081,Very High,Additional Grantor,Additional Grantor,246
+28998606,59.0,1.0,758603.36,0.0,0.0,1.0,0.0,0.9582081,Very High,Additional Grantor,Additional Grantor,247
+27324282,62.0,1.0,3193911.63,0.0,0.0,1.0,0.0,0.95741075,Very High,Additional Grantor,Additional Grantor,248
+24446185,65.0,1.0,257341.54,0.0,0.0,0.0,0.0,0.95741075,Very High,Additional Grantor,Additional Grantor,249
+27324288,62.0,1.0,616732.5,0.0,0.0,0.0,0.0,0.95741075,Very High,Additional Grantor,Additional Grantor,250
+23307735,58.0,1.0,1026566.1,0.0,0.0,0.0,0.0,0.9573018,Very High,Additional Grantor,Additional Grantor,251
+27150651,58.0,1.0,3325082.3,0.0,0.0,0.0,0.0,0.9573018,Very High,Additional Grantor,Additional Grantor,252
+24528213,58.0,1.0,279718.13,0.0,0.0,0.0,0.0,0.9573018,Very High,Additional Grantor,Additional Grantor,253
+23623748,58.0,1.0,1534079.74,0.0,0.0,0.0,0.0,0.9573018,Very High,Additional Grantor,Additional Grantor,254
+30744769,81.0,1.0,479436.55,0.0,0.0,1.0,0.0,0.9557566,Very High,Additional Grantor,Additional Grantor,255
+24175625,51.0,1.0,641320.43,0.0,0.0,0.0,0.0,0.9555013,Very High,Additional Grantor,Additional Grantor,256
+28675127,75.0,1.0,304364.59,0.0,0.0,0.0,0.0,0.95519984,Very High,Additional Grantor,Additional Grantor,257
+24580061,46.0,1.0,205847.4,0.0,0.0,1.0,0.0,0.9551567,Very High,Additional Grantor,Additional Grantor,258
+28594771,52.0,1.0,107079.61,0.0,0.0,0.0,0.0,0.9547697,Very High,Additional Grantor,Additional Grantor,259
+30640988,52.0,1.0,737236.08,0.0,0.0,1.0,0.0,0.9547697,Very High,Additional Grantor,Additional Grantor,260
+35333243,68.0,1.0,63175.32,0.0,0.0,0.0,0.0,0.9518246,Very High,Additional Grantor,Additional Grantor,261
+568326,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,262
+2997141,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,263
+16297480,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,,,264
+5793045,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,265
+17894240,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,,,266
+2081015,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,267
+5795998,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,268
+6050779,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,269
+1560321,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,270
+3025135,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,271
+6102889,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,272
+16830330,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",273
+10999636,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,,,274
+3567902,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,275
+3227098,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,276
+321771,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,277
+1768867,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,278
+175111,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,279
+1271212,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",280
+25350284,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,,,281
+861720,74.0,0.0,0.0,0.0,0.0,0.0,1.0,0.95179075,Very High,Primary Beneficiary,Primary Beneficiary,282
+24887746,72.0,1.0,4612390.24,0.0,0.0,1.0,0.0,0.95090014,Very High,Additional Grantor,Additional Grantor,283
+25020993,73.0,1.0,10625102.12,0.0,0.0,1.0,0.0,0.95090014,Very High,Additional Grantor,Additional Grantor,284
+25020994,73.0,1.0,397283.45,0.0,0.0,0.0,0.0,0.95090014,Very High,Additional Grantor,Additional Grantor,285
+35049457,69.0,1.0,1831694.97,0.0,0.0,0.0,0.0,0.95036566,Very High,Additional Grantor,Additional Grantor,286
+23382197,69.0,1.0,250350.59,0.0,0.0,0.0,0.0,0.95036566,Very High,Additional Grantor,Additional Grantor,287
+25526573,69.0,1.0,396025.95,0.0,0.0,1.0,0.0,0.95036566,Very High,Additional Grantor,Additional Grantor,288
+30300609,69.0,1.0,1122932.79,0.0,0.0,1.0,0.0,0.95036566,Very High,Additional Grantor,Additional Grantor,289
+30970632,68.0,1.0,9401933.69,0.0,0.0,1.0,0.0,0.9500536,Very High,Additional Grantor,Additional Grantor,290
+14727777,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,291
+10995863,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,292
+2999822,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",293
+1255585,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,294
+3550875,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,295
+6234379,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,296
+10754404,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,297
+6150184,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,298
+769747,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,299
+1415463,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,300
+782969,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,301
+2456602,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,302
+10996128,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,303
+1873294,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",304
+11010564,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,305
+10898352,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,,,306
+5596683,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,307
+2441073,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,308
+171342,73.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94995403,Very High,Primary Beneficiary,Primary Beneficiary,309
+27261924,70.0,1.0,555184.62,0.0,0.0,0.0,0.0,0.94938594,Very High,Additional Grantor,Additional Grantor,310
+25771541,70.0,1.0,1206714.49,0.0,0.0,1.0,0.0,0.94938594,Very High,Additional Grantor,Additional Grantor,311
+36292841,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.9492088,Very High,Additional Grantor,Additional Grantor,312
+3823477,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,313
+36197304,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,314
+2141255,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,315
+5489298,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,316
+1612367,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,317
+10937623,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,318
+2046587,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,319
+10996211,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,320
+6250668,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,321
+18092610,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,322
+10830301,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,323
+3287315,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,324
+16417312,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,325
+2155073,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",326
+18101393,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,327
+1209015,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,328
+5927385,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,329
+3435465,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,330
+174392,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",331
+11989718,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,332
+20330029,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,Trusted Contact,333
+89635,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,334
+921227,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,335
+2372012,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",336
+2432521,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,337
+4768,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,338
+10872531,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,339
+6142072,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,340
+1736705,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,341
+32530688,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,342
+3484391,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,343
+10912542,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,344
+22386,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,345
+10761300,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,346
+920780,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,347
+4690550,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,348
+18888173,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,Trusted Contact,349
+18918540,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,350
+4333749,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,351
+11413863,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,352
+823395,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,353
+3597140,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,354
+6250680,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,355
+67750,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,356
+2303723,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,357
+12280690,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,358
+14201081,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,359
+6067529,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,360
+6032000,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,361
+18781205,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,362
+4227530,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,363
+18583966,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,364
+10772927,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,365
+6057298,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,366
+10939652,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,367
+15410056,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,368
+12706637,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,Trusted Contact,369
+790593,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,370
+14061851,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,371
+15316187,71.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,372
+15622428,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,373
+725292,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",374
+3615173,72.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Primary Beneficiary,Primary Beneficiary,375
+11012884,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,,,376
+150683,70.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9477053,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,377
+10941334,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,,,378
+2100199,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,379
+12005939,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Trusted Contact,Trusted Contact,380
+920782,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,381
+2497798,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,382
+12293102,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,,,383
+5901577,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,384
+2682945,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,385
+5956411,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,386
+10857186,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,,,387
+17501363,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,,,388
+3018705,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Trusted Contact,"Transfer on Death (TOD) Bene Primary, Trusted Contact",389
+4747297,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,390
+1256519,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",391
+13855729,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,392
+10996360,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,,,393
+4710741,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,394
+4273508,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Primary Beneficiary,Primary Beneficiary,395
+77360,69.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9414274,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,396
+11631990,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,397
+5792183,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,398
+5792184,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,399
+1589306,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",400
+76475,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,401
+10995896,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,402
+22581681,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,403
+22582720,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,404
+4770,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,405
+10821582,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,406
+759314,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,407
+11216175,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,408
+19201094,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",409
+5485964,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,410
+3567900,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,411
+3567929,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,412
+213888,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,413
+10821491,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,414
+10821493,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,415
+10821495,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,416
+4043882,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,417
+3024185,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",418
+796108,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,419
+786224,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,420
+4769,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,421
+10911354,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,422
+24694960,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,423
+29573,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",424
+10874284,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,425
+6262475,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,426
+2372027,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,427
+1049895,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",428
+10861404,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,429
+6052305,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",430
+207258,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,431
+3236152,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,432
+10821532,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,433
+10821544,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,434
+10821496,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,435
+10821497,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,436
+4540634,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,437
+10821503,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,438
+10821504,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,439
+5712594,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,440
+17282151,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,441
+13160316,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,442
+11010932,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,443
+716931,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,444
+10821564,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,445
+5657013,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,446
+17438418,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,447
+13529213,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,448
+19146300,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,Trusted Contact,449
+10964266,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,450
+12252551,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,451
+10821498,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,452
+10821549,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,453
+10821563,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,454
+11011019,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,455
+11964446,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,456
+13482353,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,457
+1682214,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,458
+10821580,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,459
+10821581,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,460
+10821507,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,461
+10821512,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,462
+10821513,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,463
+10821517,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,464
+10821520,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,465
+10821521,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,466
+10821528,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,467
+2259251,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,Trusted Contact,468
+10821531,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,469
+19293242,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,470
+832190,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,471
+16281143,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,472
+16273618,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,473
+707878,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,474
+729638,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,475
+5851709,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",476
+11414100,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,477
+10996183,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,478
+10821545,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,479
+10821548,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,480
+2194523,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,481
+10821566,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,482
+10821579,68.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,483
+5909316,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,484
+27513868,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,485
+2100637,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,486
+11018166,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,487
+2110923,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,488
+25372615,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,489
+6196155,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",490
+2898505,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,491
+17970460,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,492
+1210191,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,493
+10996002,66.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,,,494
+1532498,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,495
+5813127,67.0,0.0,0.0,0.0,0.0,0.0,1.0,0.94080544,Very High,Primary Beneficiary,Primary Beneficiary,496
+10995900,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,,,497
+22213948,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,,,498
+3119468,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,499
+2505826,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,500
+2575089,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,501
+5909314,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,502
+7675,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",503
+23208292,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,,,504
+2100638,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,505
+3551046,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,506
+96885,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",507
+2437467,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",508
+3567899,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,509
+4674084,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",510
+21890935,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,,,511
+1046845,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",512
+1049898,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",513
+19721775,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,514
+1483514,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,515
+3597129,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,516
+1736708,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,Primary Beneficiary,Primary Beneficiary,517
+11031859,65.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9404228,Very High,,,518
+1607961,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,519
+17948983,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,520
+435193,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",521
+10995945,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,522
+10995944,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,523
+16001624,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,524
+11001461,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,525
+42005,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,526
+18918632,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,527
+11011177,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,528
+24914330,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,529
+11992438,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Trusted Contact,Trusted Contact,530
+6082141,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,531
+6078558,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,532
+16326152,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,533
+22163448,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,534
+16955107,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,535
+36010133,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,536
+5975814,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",537
+3024181,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",538
+1662860,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,539
+4342938,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,540
+24523509,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,541
+1028652,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,542
+4677406,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,543
+2345845,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,544
+821470,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,545
+17411132,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,546
+10972479,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,547
+6042548,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,548
+1898303,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,549
+6052308,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",550
+4647847,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,551
+12518084,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,552
+12276878,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,553
+61011,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,554
+6113333,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Contingent Beneficiary,Contingent Beneficiary,555
+1722774,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",556
+2194538,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,557
+18523672,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,558
+2100641,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,559
+5677304,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Trusted Contact,Trusted Contact,560
+1244040,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",561
+743210,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Primary Beneficiary,Primary Beneficiary,562
+11222516,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,563
+11222515,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,564
+10945327,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,,,565
+2731,63.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93982184,Very High,Contingent Beneficiary,Contingent Beneficiary,566
+10939420,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Trusted Contact,Trusted Contact,567
+10938923,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,568
+27259570,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,569
+3024189,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",570
+10908883,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,571
+756020,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,572
+716932,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,573
+10996992,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,574
+10840232,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,575
+3288758,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",576
+2233208,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,577
+61012,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,578
+2056915,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Trusted Contact,Trusted Contact,579
+10995984,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,580
+4395168,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,581
+10831997,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,582
+10870823,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,583
+4656300,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Trusted Contact,Trusted Contact,584
+342716,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,585
+5726454,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",586
+11011466,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,587
+1660370,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,588
+11230437,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,589
+25428115,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,,,590
+18918375,59.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93863446,Very High,Primary Beneficiary,Primary Beneficiary,591
+2862037,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,592
+1612357,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,593
+1444141,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,594
+1497910,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,595
+15326643,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,596
+3024187,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",597
+19086088,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",598
+10751139,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,599
+5902158,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,600
+1736711,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,601
+6113329,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Contingent Beneficiary,Contingent Beneficiary,602
+114609,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Contingent Beneficiary,Contingent Beneficiary,603
+10900278,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,604
+4023681,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,605
+772456,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,606
+2837626,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,607
+14756482,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,608
+11218668,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,609
+14584379,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,610
+14797635,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,611
+20365798,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,612
+706053,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Contingent Beneficiary,"Contingent Beneficiary, Transfer on Death (TOD) Bene Primary",613
+10996866,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,614
+42006,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,615
+2450800,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,616
+22589318,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,617
+3159740,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,618
+2437473,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",619
+26947007,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",620
+6081841,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,621
+2527262,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,622
+11234406,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,623
+831843,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Contingent Beneficiary,"Contingent Beneficiary, Transfer on Death (TOD) Bene Contingent",624
+10880246,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,625
+1357891,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",626
+1951446,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,627
+344408,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,628
+1653148,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",629
+11011061,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,630
+11011047,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,631
+5623578,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,632
+4074970,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,633
+17705767,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,634
+1170436,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,635
+22788404,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,636
+4472320,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,637
+6052309,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",638
+30870445,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,639
+2076679,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,640
+160378,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,641
+2194540,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,642
+6017502,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Primary Beneficiary,Primary Beneficiary,643
+6247992,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,644
+672817,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Trusted Contact,"Transfer on Death (TOD) Bene Primary, Trusted Contact",645
+27836028,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,646
+22902959,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,647
+36160812,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,648
+2194539,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,649
+11020402,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,650
+30630172,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,651
+11024251,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,652
+181921,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",653
+27493836,62.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,654
+10967076,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,655
+14328353,61.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,,,656
+1577652,60.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93848807,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,657
+1577653,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,658
+10852459,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,659
+5398,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,660
+10996665,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,661
+6185393,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,662
+18949956,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,663
+14882751,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,664
+18918496,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,665
+114611,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,666
+22784206,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,667
+10999488,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,668
+17404007,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,669
+4670996,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,670
+4649532,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Contingent Beneficiary,Contingent Beneficiary,671
+2165306,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,672
+1191686,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,673
+4540713,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",674
+2410599,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,675
+24932132,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,,,676
+754168,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,677
+52749,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Contingent Beneficiary,Contingent Beneficiary,678
+4395179,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,679
+2862039,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Primary Beneficiary,Primary Beneficiary,680
+2613911,57.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9380259,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,681
+5656984,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,682
+12136060,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Trusted Contact,Trusted Contact,683
+3377219,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,684
+1577654,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,685
+12006443,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,686
+3735134,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,687
+444563,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Contingent Beneficiary,Contingent Beneficiary,688
+1499381,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,689
+10956192,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,690
+2613907,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Trusted Contact,"Transfer on Death (TOD) Bene Primary, Trusted Contact",691
+6121045,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,692
+831845,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Contingent Beneficiary,"Contingent Beneficiary, Transfer on Death (TOD) Bene Contingent",693
+4132214,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,694
+2679757,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,695
+10995857,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,696
+11222426,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,697
+6113335,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Contingent Beneficiary,Contingent Beneficiary,698
+1121295,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,699
+14088725,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,700
+14083641,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",701
+16847250,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,702
+61013,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,703
+18532136,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",704
+27150662,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,,,705
+17803026,58.0,0.0,0.0,0.0,0.0,0.0,1.0,0.93761814,Very High,Primary Beneficiary,Primary Beneficiary,706
+16831409,20.0,1.0,52468.47,0.0,0.0,1.0,1.0,0.9330608,Very High,Minor,Minor,707
+20137703,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,,,708
+6236208,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Primary Beneficiary,Primary Beneficiary,709
+12505882,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,,,710
+330707,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Primary Beneficiary,Primary Beneficiary,711
+2196453,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Contingent Beneficiary,Contingent Beneficiary,712
+3592810,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Primary Beneficiary,Primary Beneficiary,713
+10738869,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Trusted Contact,"Transfer on Death (TOD) Bene Primary, Trusted Contact",714
+696613,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Primary Beneficiary,Primary Beneficiary,715
+6180470,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Trusted Contact,"Contingent Beneficiary, Trusted Contact",716
+11759292,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,,,717
+114612,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Primary Beneficiary,Primary Beneficiary,718
+10996941,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,,,719
+17102885,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,,,720
+2409464,53.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92563635,Very High,Contingent Beneficiary,Contingent Beneficiary,721
+3538579,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,722
+10941226,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,,,723
+11570738,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,724
+754170,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,725
+264513,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",726
+2495920,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,727
+52750,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Contingent Beneficiary,Contingent Beneficiary,728
+1132545,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,729
+1499397,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Primary Beneficiary,Primary Beneficiary,730
+5774125,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Contingent Beneficiary,Contingent Beneficiary,731
+17976378,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,,,732
+17876854,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,,,733
+790052,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,734
+13857798,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",735
+30311227,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,,,736
+10975340,55.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92557436,Very High,,,737
+3612719,20.0,1.0,9437.38,0.0,0.0,0.0,1.0,0.92537993,Very High,Contingent Beneficiary,"Contingent Beneficiary, Minor",738
+10880255,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,739
+11010977,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,740
+1454071,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,Primary Beneficiary,741
+14872392,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,742
+11926679,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,743
+5895307,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,744
+5841645,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,Primary Beneficiary,745
+17411135,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,746
+1049901,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",747
+24173029,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,748
+11018699,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,749
+11199111,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,750
+782967,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,Primary Beneficiary,751
+4693698,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,Primary Beneficiary,752
+296698,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,Primary Beneficiary,Primary Beneficiary,753
+10939484,54.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9245363,Very High,,,754
+10995773,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,755
+6236210,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,756
+11901372,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,757
+6236209,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,758
+11913122,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Trusted Contact,Trusted Contact,759
+11106858,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,760
+10903715,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,761
+10996376,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,762
+6113331,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,763
+11101908,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,764
+1728505,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,765
+1722892,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",766
+6092162,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,767
+823446,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,768
+25603213,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,769
+812516,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,770
+11232604,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,771
+11232561,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,772
+1589307,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,773
+751246,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,774
+4380465,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",775
+11232733,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,776
+14860139,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,777
+27190044,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,778
+28904914,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,779
+10890133,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,780
+14906139,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,781
+1049911,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",782
+1049905,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",783
+61564,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",784
+1091294,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,785
+2409466,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,786
+1049908,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",787
+10854186,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,788
+1892854,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,789
+12097140,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,790
+11010967,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,791
+10995710,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,792
+2433812,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,793
+3172885,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,794
+11010970,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,795
+2477356,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,796
+3168886,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",797
+26884819,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,798
+3029625,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,799
+304848,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,800
+306450,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,801
+26929535,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,802
+18986430,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",803
+1782538,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,804
+363447,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,805
+14240242,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,806
+11024782,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,807
+12379831,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,808
+2196454,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,809
+1513447,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",810
+21347541,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,811
+36154052,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,812
+23219187,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,813
+23264889,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,814
+6235334,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,815
+500748,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,816
+5795615,46.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,817
+10948675,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,818
+27504038,51.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,819
+11631208,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,820
+27549075,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,821
+11766090,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,822
+3295968,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",823
+4325664,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,824
+1185997,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,825
+2241664,47.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,826
+11023694,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,827
+10968400,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,828
+3556093,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,829
+17935286,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,830
+10969371,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,831
+6142075,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,832
+11193559,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,833
+1132116,49.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,834
+23604740,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",835
+197829,50.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Primary Beneficiary,Primary Beneficiary,836
+27150325,52.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,,,837
+5795613,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9239996,Very High,Contingent Beneficiary,Contingent Beneficiary,838
+26888155,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,839
+23346805,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,840
+10992942,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,841
+10992750,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,842
+10834202,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,843
+30712975,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,844
+1185998,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,845
+175113,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,846
+6142073,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,847
+4911691,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,848
+6332489,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",849
+4911705,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,850
+200320,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",851
+2704568,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,852
+5601502,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Trusted Contact,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary, Trusted Contact",853
+16285098,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,854
+10980013,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,855
+6184220,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,856
+5769013,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,857
+91899,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,858
+10933363,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,859
+1589308,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,860
+1594018,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",861
+5858268,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,"Contingent Beneficiary, Transfer on Death (TOD) Bene Contingent",862
+1717880,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,863
+25982402,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,864
+1891857,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,865
+15561667,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,866
+18887501,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,867
+3168905,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,868
+701322,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,869
+2495922,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,870
+1633356,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,871
+5795611,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,872
+2222627,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,873
+1111240,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,874
+18005006,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,875
+707873,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,876
+10992757,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,877
+1185999,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,878
+11519563,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,879
+20095750,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,880
+10996126,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,881
+11768288,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",882
+10940373,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,883
+1632360,44.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,884
+175114,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,885
+6142074,42.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,886
+19979554,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,887
+3567906,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,888
+213859,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,889
+11011155,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,890
+213910,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,891
+213909,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,892
+18150763,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,893
+22979755,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,894
+63294,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,895
+5980810,43.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,Primary Beneficiary,896
+16951059,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,897
+4540442,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,898
+6050775,41.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",899
+163385,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",900
+696342,40.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,Contingent Beneficiary,Contingent Beneficiary,901
+11148172,45.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9221614,Very High,,,902
+2931306,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,903
+2931308,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,904
+3168573,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Designated Beneficiary,"Designated Beneficiary, Minor",905
+3452141,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,906
+1754459,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,907
+3168576,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Designated Beneficiary,"Designated Beneficiary, Minor",908
+267086,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,909
+293681,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,910
+3452502,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,911
+14796288,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,912
+612981,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,913
+3452314,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,914
+293793,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,915
+3593332,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,916
+2746492,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,917
+5726456,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,918
+2931304,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,919
+2049251,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,920
+6049962,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,921
+3312635,30.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,922
+1367479,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,"Contingent Beneficiary, Transfer on Death (TOD) Bene Contingent",923
+218250,32.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,924
+1438422,29.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Minor,Minor,925
+2931298,32.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,926
+3942509,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Designated Beneficiary,Designated Beneficiary,927
+3942514,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Designated Beneficiary,Designated Beneficiary,928
+3942503,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Designated Beneficiary,Designated Beneficiary,929
+2447770,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,930
+2447771,31.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Primary Beneficiary,Primary Beneficiary,931
+5933947,32.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,932
+5933929,28.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,933
+3589078,27.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9220746,Very High,Contingent Beneficiary,Contingent Beneficiary,934
+5933913,34.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,935
+2417609,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Primary Beneficiary,Primary Beneficiary,936
+134908,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Minor,Minor,937
+2447769,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Primary Beneficiary,Primary Beneficiary,938
+2931296,34.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Primary Beneficiary,Primary Beneficiary,939
+4447031,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Transfer on Death (TOD) Bene Contingent,Transfer on Death (TOD) Bene Contingent,940
+2640633,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,941
+11294673,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,,,942
+2055692,34.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,943
+210449,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Minor,Minor,944
+6049952,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Minor,Minor,945
+6049963,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Minor,Minor,946
+63296,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,947
+3677196,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,948
+693530,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,949
+3677197,35.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,950
+3452009,34.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Primary Beneficiary,Primary Beneficiary,951
+2666997,33.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9211863,Very High,Contingent Beneficiary,Contingent Beneficiary,952
+114610,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Contingent Beneficiary,Contingent Beneficiary,953
+13160618,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,954
+10998071,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,955
+11219302,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,956
+1736714,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,957
+18659625,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",958
+21350637,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,959
+25775190,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,960
+6118200,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,961
+2233209,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,962
+1499393,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,963
+10957938,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,964
+21958202,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,965
+96886,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,966
+11232701,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,967
+949652,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,968
+2076681,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,969
+2374816,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,970
+3567896,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,971
+12670675,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,972
+11011021,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,973
+4542043,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,974
+63865,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,975
+6155900,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,976
+2961654,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,977
+2725192,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,978
+5149534,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,Primary Beneficiary,Primary Beneficiary,979
+36162011,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,980
+12612064,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,981
+17957369,56.0,0.0,0.0,0.0,0.0,0.0,1.0,0.92059916,Very High,,,982
+1772523,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Primary Beneficiary,Primary Beneficiary,983
+191702,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Primary Beneficiary,Primary Beneficiary,984
+5793456,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Contingent Beneficiary,Contingent Beneficiary,985
+5988205,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Primary Beneficiary,"Primary Beneficiary, Transfer on Death (TOD) Bene Primary",986
+16854235,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Trusted Contact,"Primary Beneficiary, Trusted Contact",987
+14983278,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,,,988
+6078566,36.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9202868,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,989
+20090108,20.0,1.0,9800.18,0.0,0.0,0.0,1.0,0.91922325,Very High,Minor,Minor,990
+27493847,37.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,,,991
+2495924,38.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Primary Beneficiary,Primary Beneficiary,992
+360138,37.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,993
+6078564,38.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Transfer on Death (TOD) Bene Primary,Transfer on Death (TOD) Bene Primary,994
+5300347,39.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Contingent Beneficiary,Contingent Beneficiary,995
+4013676,39.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Primary Beneficiary,Primary Beneficiary,996
+10918622,38.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,,,997
+1186000,39.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Primary Beneficiary,Primary Beneficiary,998
+2409465,37.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Contingent Beneficiary,Contingent Beneficiary,999
+213911,37.0,0.0,0.0,0.0,0.0,0.0,1.0,0.91730183,Very High,Contingent Beneficiary,Contingent Beneficiary,1000

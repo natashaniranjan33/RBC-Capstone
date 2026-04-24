@@ -1,0 +1,5 @@
+cluster,PartyAge,age_under_40,age_40_55,age_55_70,age_over_70,n_accounts_named_on,n_as_primary_bene,n_as_contingent_bene,n_as_tod_bene,n_as_trusted_contact,n_as_minor,log_portfolio,log_max_portfolio,n_advisory_accts,n_ira_accts,n_trust_accts,any_owner_70plus,any_owner_80plus,associated_has_rollover,associated_has_distribution,in_client_household,conversion_probability,n_parties,segment_name
+0,83.814,0.0,0.0,0.0,1.0,0.003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.001,0.0,0.0,0.0,0.0,0.077,0.633,2709,Older Wealth-Adjacent (60+)
+1,66.22,0.1,0.08,0.36,0.46,1.2,0.0,0.0,0.0,0.0,0.08,13.003,12.94,0.5,0.0,1.12,0.0,0.0,0.0,0.0,0.08,0.958,50,High-Value Account Associates
+2,52.54,0.186,0.22,0.594,0.0,0.021,0.0,0.0,0.0,0.0,0.002,0.011,0.011,0.0,0.0,0.002,0.004,0.001,0.0,0.0,0.993,0.93,817,Client Household Members
+3,15.667,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,10.683,10.419,0.5,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.799,6,Minors — Long-term Growth Opportunity
